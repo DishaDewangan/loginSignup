@@ -1,5 +1,3 @@
-### **`README.md`**:
-
 ```markdown
 # Login and Signup System
 
@@ -26,8 +24,8 @@ This is a basic login and signup system built using **Node.js** and **MongoDB**.
 ### Steps to run the project locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
-   cd your-repository-name
+   git clone https://github.com/dishadewangan/loginSignup.git
+   cd loginSignup
    ```
 
 2. Install the dependencies:
@@ -46,22 +44,4 @@ This is a basic login and signup system built using **Node.js** and **MongoDB**.
 This project is open source and available under the [MIT License](LICENSE).
 ```
 
-### **`.gitignore`**:
-
-Make sure to add a `.gitignore` file to avoid pushing sensitive or unnecessary files. Here's an example:
-
-```gitignore
-# Node.js modules
-node_modules/
-
-# MongoDB data files
-data/
-
-# IDE and OS files
-.vscode/
-.DS_Store
-.idea/
-
-# Logs
-*.log
-```
+5. **Scroll down** and click **"Commit new file"**.
